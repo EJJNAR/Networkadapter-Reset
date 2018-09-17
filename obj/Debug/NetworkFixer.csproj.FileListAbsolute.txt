@@ -1,0 +1,6 @@
+c:\users\thomas\documents\visual studio 2015\Projects\NetworkFixer\bin\Debug\NetworkFixer.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\NetworkFixer\bin\Debug\NetworkFixer.exe
+c:\users\thomas\documents\visual studio 2015\Projects\NetworkFixer\bin\Debug\NetworkFixer.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\NetworkFixer\obj\Debug\NetworkFixer.exe
+c:\users\thomas\documents\visual studio 2015\Projects\NetworkFixer\obj\Debug\NetworkFixer.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\NetworkFixer\obj\Debug\NetworkFixer.csprojResolveAssemblyReference.cache
